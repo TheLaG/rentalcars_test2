@@ -6,6 +6,8 @@ Runs on Spring boot
 BUILD
 Compile using Gradle: gradle buildDependents
 
+Pre build jar is in distr folder
+
 RUNNING 
 Using CMD: 
 java -jar test2-1.0.0.jar
